@@ -1,0 +1,12 @@
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\bin\Debug\ejercicioclase.exe.config
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\bin\Debug\ejercicioclase.exe
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\bin\Debug\ejercicioclase.pdb
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\bin\Debug\ejercicioclase.xml
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\obj\Debug\ejercicioclase.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\obj\Debug\ejercicioclase.Form1.resources
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\obj\Debug\ejercicioclase.Resources.resources
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\obj\Debug\ejercicioclase.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\obj\Debug\ejercicioclase.vbproj.CoreCompileInputs.cache
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\obj\Debug\ejercicioclase.exe
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\obj\Debug\ejercicioclase.xml
+C:\Users\walth\source\repos\ejercicioclase\ejercicioclase\obj\Debug\ejercicioclase.pdb
