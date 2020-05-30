@@ -1,0 +1,12 @@
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\bin\Debug\suma dos numeros.exe.config
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\bin\Debug\suma dos numeros.exe
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\bin\Debug\suma dos numeros.pdb
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\bin\Debug\suma dos numeros.xml
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\obj\Debug\suma dos numeros.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\obj\Debug\suma_dos_numeros.Form1.resources
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\obj\Debug\suma_dos_numeros.Resources.resources
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\obj\Debug\suma dos numeros.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\obj\Debug\suma dos numeros.vbproj.CoreCompileInputs.cache
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\obj\Debug\suma dos numeros.exe
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\obj\Debug\suma dos numeros.xml
+C:\Users\walth\source\repos\suma dos numeros\suma dos numeros\obj\Debug\suma dos numeros.pdb
