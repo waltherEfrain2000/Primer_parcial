@@ -1,0 +1,12 @@
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\bin\Debug\validaciones con error provider.exe.config
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\bin\Debug\validaciones con error provider.exe
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\bin\Debug\validaciones con error provider.pdb
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\bin\Debug\validaciones con error provider.xml
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\obj\Debug\validaciones con error provider.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\obj\Debug\validaciones_con_error_provider.Form1.resources
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\obj\Debug\validaciones_con_error_provider.Resources.resources
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\obj\Debug\validaciones con error provider.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\obj\Debug\validaciones con error provider.vbproj.CoreCompileInputs.cache
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\obj\Debug\validaciones con error provider.exe
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\obj\Debug\validaciones con error provider.xml
+C:\Users\walth\source\repos\validaciones con error provider\validaciones con error provider\obj\Debug\validaciones con error provider.pdb

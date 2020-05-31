@@ -33,9 +33,9 @@ Partial Class Form1
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.btnValidar = New System.Windows.Forms.Button()
-        Me.BackgroundWorker1 = New System.ComponentModel.BackgroundWorker()
-        Me.toolTip = New System.Windows.Forms.ToolTip(Me.components)
         Me.errorValidacion = New System.Windows.Forms.ErrorProvider(Me.components)
+        Me.toolTip = New System.Windows.Forms.ToolTip(Me.components)
+        Me.BackgroundWorker1 = New System.ComponentModel.BackgroundWorker()
         Me.GroupBox1.SuspendLayout()
         CType(Me.errorValidacion, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -142,13 +142,13 @@ Partial Class Form1
         Me.btnValidar.Text = "Validar"
         Me.btnValidar.UseVisualStyleBackColor = True
         '
-        'toolTip
-        '
-        Me.toolTip.IsBalloon = True
-        '
         'errorValidacion
         '
         Me.errorValidacion.ContainerControl = Me
+        '
+        'toolTip
+        '
+        Me.toolTip.IsBalloon = True
         '
         'Form1
         '
@@ -176,7 +176,7 @@ Partial Class Form1
     Friend WithEvents Label2 As Label
     Friend WithEvents Label1 As Label
     Friend WithEvents btnValidar As Button
-    Friend WithEvents BackgroundWorker1 As System.ComponentModel.BackgroundWorker
-    Friend WithEvents toolTip As ToolTip
     Friend WithEvents errorValidacion As ErrorProvider
+    Friend WithEvents toolTip As ToolTip
+    Friend WithEvents BackgroundWorker1 As System.ComponentModel.BackgroundWorker
 End Class

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{51AC8914-2909-4E6C-8E56-0567A2BAB6B8}</ProjectGuid>
+    <ProjectGuid>{C21E847A-6DE0-49AD-BEE1-8D45999D2912}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>validaciones.My.MyApplication</StartupObject>
-    <RootNamespace>validaciones</RootNamespace>
-    <AssemblyName>validaciones</AssemblyName>
+    <StartupObject>validaciones_con_error_provider.My.MyApplication</StartupObject>
+    <RootNamespace>validaciones_con_error_provider</RootNamespace>
+    <AssemblyName>validaciones con error provider</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>validaciones.xml</DocumentationFile>
+    <DocumentationFile>validaciones con error provider.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>validaciones.xml</DocumentationFile>
+    <DocumentationFile>validaciones con error provider.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -73,7 +73,9 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form1.Designer.vb">
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>

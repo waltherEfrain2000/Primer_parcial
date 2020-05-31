@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "validaciones", "validaciones\validaciones.vbproj", "{51AC8914-2909-4E6C-8E56-0567A2BAB6B8}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "validaciones con error provider", "validaciones con error provider\validaciones con error provider.vbproj", "{C21E847A-6DE0-49AD-BEE1-8D45999D2912}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{51AC8914-2909-4E6C-8E56-0567A2BAB6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{51AC8914-2909-4E6C-8E56-0567A2BAB6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{51AC8914-2909-4E6C-8E56-0567A2BAB6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{51AC8914-2909-4E6C-8E56-0567A2BAB6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21E847A-6DE0-49AD-BEE1-8D45999D2912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21E847A-6DE0-49AD-BEE1-8D45999D2912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21E847A-6DE0-49AD-BEE1-8D45999D2912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21E847A-6DE0-49AD-BEE1-8D45999D2912}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2547B9B0-D8D2-4A9D-AAD8-8EAE074A0D4E}
+		SolutionGuid = {0C9EE2D2-AFEC-44D0-8F0F-E6B51F34FED1}
 	EndGlobalSection
 EndGlobal

@@ -1,6 +1,6 @@
 ﻿Imports System.ComponentModel
 
-Public Class Validaciones
+Public Class Form1
     Private Sub btnValidar_Click(sender As Object, e As EventArgs) Handles btnValidar.Click
         'Try Catch
         'ValidateChildren  Botton
@@ -18,17 +18,12 @@ Public Class Validaciones
         End Try
     End Sub
 
-    Private Sub txtProducto_TextChanged(sender As Object, e As EventArgs) Handles txtProducto.TextChanged
-
-    End Sub
-
     Private Sub txtProducto_Validating(sender As Object, e As CancelEventArgs) Handles txtProducto.Validating
         If DirectCast(sender, TextBox).Text.Length > 0 Then
             Me.errorValidacion.SetError(sender, "")
         Else
             Me.errorValidacion.SetError(sender, "Es un campo obligatorio")
         End If
-
     End Sub
 
     Private Sub txtPrecio_TextChanged(sender As Object, e As EventArgs) Handles txtPrecio.TextChanged
@@ -55,23 +50,26 @@ Public Class Validaciones
         End If
     End Sub
 
-    Private Sub txtProducto_MouseHover(sender As Object, e As EventArgs) Handles txtProducto.MouseHover
-        ToolTip.SetToolTip(txtProducto, "Ingrese un producto")
-        ToolTip.ToolTipTitle = "Producto"
-        ToolTip.ToolTipIcon = ToolTipIcon.Info
+    Private Sub txtProducto_TextChanged(sender As Object, e As EventArgs) Handles txtProducto.TextChanged
 
+    End Sub
+
+    Private Sub txtProducto_MouseHover(sender As Object, e As EventArgs) Handles txtProducto.MouseHover
+        toolTip.SetToolTip(txtProducto, "Ingrese un producto")
+        toolTip.ToolTipTitle = "Producto"
+        toolTip.ToolTipIcon = ToolTipIcon.Info
     End Sub
 
     Private Sub txtPrecio_MouseHover(sender As Object, e As EventArgs) Handles txtPrecio.MouseHover
-        ToolTip.SetToolTip(txtPrecio, "Ingrese un precio")
-        ToolTip.ToolTipTitle = "Precio"
-        ToolTip.ToolTipIcon = ToolTipIcon.Info
+        toolTip.SetToolTip(txtPrecio, "Ingrese un precio")
+        toolTip.ToolTipTitle = "Precio"
+        toolTip.ToolTipIcon = ToolTipIcon.Info
     End Sub
 
     Private Sub txtCantidad_MouseHover(sender As Object, e As EventArgs) Handles txtCantidad.MouseHover
-        ToolTip.SetToolTip(txtCantidad, "Ingrese una cantidad (Entero)")
-        ToolTip.ToolTipTitle = "Cantidad"
-        ToolTip.ToolTipIcon = ToolTipIcon.Info
+        toolTip.SetToolTip(txtCantidad, "Ingrese una cantidad (Entero)")
+        toolTip.ToolTipTitle = "Cantidad"
+        toolTip.ToolTipIcon = ToolTipIcon.Info
     End Sub
 
     Private Sub txtDescripcion_TextChanged(sender As Object, e As EventArgs) Handles txtDescripcion.TextChanged
@@ -79,12 +77,10 @@ Public Class Validaciones
     End Sub
 
     Private Sub txtDescripcion_MouseHover(sender As Object, e As EventArgs) Handles txtDescripcion.MouseHover
-        ToolTip.SetToolTip(txtDescripcion, "Ingrese una descripcion")
-        ToolTip.ToolTipTitle = "Descripcion"
-        ToolTip.ToolTipIcon = ToolTipIcon.Info
-    End Sub
-
-    Private Sub BackgroundWorker1_DoWork(sender As Object, e As DoWorkEventArgs) Handles BackgroundWorker1.DoWork
-
+        toolTip.SetToolTip(txtDescripcion, "Ingrese una descripcion")
+        toolTip.ToolTipTitle = "Descripcion"
+        toolTip.ToolTipIcon = ToolTipIcon.Info
     End Sub
 End Class
+
+
