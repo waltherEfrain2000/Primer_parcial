@@ -1,0 +1,26 @@
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.vbprojAssemblyReference.cache
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\obj\Debug\Entornos_visuales.Form1.resources
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\obj\Debug\Entornos_visuales.Resources.resources
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.vbproj.GenerateResource.cache
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.vbproj.CoreCompileInputs.cache
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\bin\Debug\Entornos visuales.exe.config
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\bin\Debug\Entornos visuales.exe
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\bin\Debug\Entornos visuales.pdb
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\bin\Debug\Entornos visuales.xml
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.exe
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.xml
+C:\Users\pcpf\Desktop\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.pdb
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\bin\Debug\Entornos visuales.exe.config
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\bin\Debug\Entornos visuales.exe
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\bin\Debug\Entornos visuales.pdb
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\bin\Debug\Entornos visuales.xml
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.vbprojAssemblyReference.cache
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos_visuales.Form1.resources
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos_visuales.Resources.resources
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.vbproj.GenerateResource.cache
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.vbproj.CoreCompileInputs.cache
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.exe
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.xml
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.pdb
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos_visuales.Validacion_de_Numeros.resources
+C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos_visuales.Uso de Checkbox.resources
