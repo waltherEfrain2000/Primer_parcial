@@ -1,0 +1,5 @@
+C:\Users\walth\source\repos\validaciones\validaciones\obj\Debug\validaciones.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\validaciones\validaciones\obj\Debug\validaciones.Validaciones.resources
+C:\Users\walth\source\repos\validaciones\validaciones\obj\Debug\validaciones.Resources.resources
+C:\Users\walth\source\repos\validaciones\validaciones\obj\Debug\validaciones.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\validaciones\validaciones\obj\Debug\validaciones.vbproj.CoreCompileInputs.cache
