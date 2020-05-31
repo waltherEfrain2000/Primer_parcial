@@ -24,3 +24,17 @@ C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entorn
 C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos visuales.pdb
 C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos_visuales.Validacion_de_Numeros.resources
 C:\Users\pcpf\Desktop\PROGRAMACION EN ENTORNOS VISUALES\Entornos visuales\Entornos visuales\obj\Debug\Entornos_visuales.Uso de Checkbox.resources
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\bin\Debug\Entornos visuales.exe.config
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\bin\Debug\Entornos visuales.exe
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\bin\Debug\Entornos visuales.pdb
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\bin\Debug\Entornos visuales.xml
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos visuales.vbprojAssemblyReference.cache
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos_visuales.Form1.resources
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos_visuales.Resources.resources
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos_visuales.Uso de Checkbox.resources
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos_visuales.Validacion_de_Numeros.resources
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos visuales.vbproj.GenerateResource.cache
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos visuales.vbproj.CoreCompileInputs.cache
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos visuales.exe
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos visuales.xml
+C:\Users\walth\OneDrive\Documents\GitHub\Primer_parcial\Ejercicios clase\validacion y formulario\Entornos visuales\obj\Debug\Entornos visuales.pdb

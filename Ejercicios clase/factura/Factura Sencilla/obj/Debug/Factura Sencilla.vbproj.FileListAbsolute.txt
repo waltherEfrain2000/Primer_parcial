@@ -1,0 +1,24 @@
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\bin\Debug\Factura Sencilla.exe.config
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\bin\Debug\Factura Sencilla.exe
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\bin\Debug\Factura Sencilla.pdb
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\bin\Debug\Factura Sencilla.xml
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\obj\Debug\Factura Sencilla.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\obj\Debug\Factura_Sencilla.factura.resources
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\obj\Debug\Factura_Sencilla.Resources.resources
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\obj\Debug\Factura Sencilla.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\obj\Debug\Factura Sencilla.vbproj.CoreCompileInputs.cache
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\obj\Debug\Factura Sencilla.exe
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\obj\Debug\Factura Sencilla.xml
+C:\Users\walth\source\repos\Factura Sencilla\Factura Sencilla\obj\Debug\Factura Sencilla.pdb
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\bin\Debug\Factura Sencilla.exe.config
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\bin\Debug\Factura Sencilla.exe
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\bin\Debug\Factura Sencilla.pdb
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\bin\Debug\Factura Sencilla.xml
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\obj\Debug\Factura Sencilla.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\obj\Debug\Factura_Sencilla.factura.resources
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\obj\Debug\Factura_Sencilla.Resources.resources
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\obj\Debug\Factura Sencilla.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\obj\Debug\Factura Sencilla.vbproj.CoreCompileInputs.cache
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\obj\Debug\Factura Sencilla.exe
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\obj\Debug\Factura Sencilla.xml
+C:\Users\walth\source\repos\Factura Sencilla walther Aguilar\Factura Sencilla\obj\Debug\Factura Sencilla.pdb
