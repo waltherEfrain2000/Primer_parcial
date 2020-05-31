@@ -1,0 +1,12 @@
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\bin\Debug\ventana emergente y ciclo for.exe.config
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\bin\Debug\ventana emergente y ciclo for.exe
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\bin\Debug\ventana emergente y ciclo for.pdb
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\bin\Debug\ventana emergente y ciclo for.xml
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\obj\Debug\ventana emergente y ciclo for.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\obj\Debug\ventana_emergente_y_ciclo_for.Form1.resources
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\obj\Debug\ventana_emergente_y_ciclo_for.Resources.resources
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\obj\Debug\ventana emergente y ciclo for.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\obj\Debug\ventana emergente y ciclo for.vbproj.CoreCompileInputs.cache
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\obj\Debug\ventana emergente y ciclo for.exe
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\obj\Debug\ventana emergente y ciclo for.xml
+C:\Users\walth\source\repos\ventana emergente y ciclo for\ventana emergente y ciclo for\obj\Debug\ventana emergente y ciclo for.pdb
