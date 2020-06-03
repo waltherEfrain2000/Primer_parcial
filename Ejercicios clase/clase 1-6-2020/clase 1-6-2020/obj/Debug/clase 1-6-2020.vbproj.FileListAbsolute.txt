@@ -1,0 +1,13 @@
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\bin\Debug\clase 1-6-2020.exe.config
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\bin\Debug\clase 1-6-2020.exe
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\bin\Debug\clase 1-6-2020.pdb
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\bin\Debug\clase 1-6-2020.xml
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\obj\Debug\clase 1-6-2020.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\obj\Debug\clase_1_6_2020.contador_y_contador.resources
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\obj\Debug\clase_1_6_2020.Resources.resources
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\obj\Debug\clase 1-6-2020.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\obj\Debug\clase 1-6-2020.vbproj.CoreCompileInputs.cache
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\obj\Debug\clase 1-6-2020.exe
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\obj\Debug\clase 1-6-2020.xml
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\obj\Debug\clase 1-6-2020.pdb
+C:\Users\walth\source\repos\clase 1-6-2020\clase 1-6-2020\obj\Debug\clase_1_6_2020.entregamascarillas.resources
