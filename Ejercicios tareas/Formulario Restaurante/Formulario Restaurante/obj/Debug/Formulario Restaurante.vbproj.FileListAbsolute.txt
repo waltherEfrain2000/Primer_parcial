@@ -1,0 +1,13 @@
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\bin\Debug\Formulario Restaurante.exe.config
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\bin\Debug\Formulario Restaurante.exe
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\bin\Debug\Formulario Restaurante.pdb
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\bin\Debug\Formulario Restaurante.xml
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\obj\Debug\Formulario Restaurante.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\obj\Debug\Formulario_Restaurante.Resources.resources
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\obj\Debug\Formulario Restaurante.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\obj\Debug\Formulario Restaurante.vbproj.CoreCompileInputs.cache
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\obj\Debug\Formulario Restaurante.exe
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\obj\Debug\Formulario Restaurante.xml
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\obj\Debug\Formulario Restaurante.pdb
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\obj\Debug\Formulario_Restaurante.User.resources
+C:\Users\walth\source\repos\Formulario Restaurante\Formulario Restaurante\obj\Debug\Formulario_Restaurante.Menuprincipal.resources
