@@ -1,0 +1,17 @@
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\bin\Debug\Guia Primer parcia.exe.config
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\bin\Debug\Guia Primer parcia.exe
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\bin\Debug\Guia Primer parcia.pdb
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\bin\Debug\Guia Primer parcia.xml
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia Primer parcia.vbprojAssemblyReference.cache
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia_Primer_parcia.Calculadora.resources
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia_Primer_parcia.Resources.resources
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia Primer parcia.vbproj.GenerateResource.cache
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia Primer parcia.vbproj.CoreCompileInputs.cache
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia Primer parcia.exe
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia Primer parcia.xml
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia Primer parcia.pdb
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia_Primer_parcia.formula_cuadratica.resources
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia_Primer_parcia.menu.resources
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia_Primer_parcia._10Almacenes.resources
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia_Primer_parcia.calculo_numeros.resources
+C:\Users\walth\source\repos\Guia Primer parcia\Guia Primer parcia\obj\Debug\Guia_Primer_parcia.sueldo_determinado.resources
